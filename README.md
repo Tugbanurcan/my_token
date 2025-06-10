@@ -3,8 +3,8 @@
 Bu proje, Solidity dilinde geliştirilmiş basit bir ERC-20 token sözleşmesini içermektedir.
 
 OpenZeppelin kütüphanesi kullanılarak güvenli ve standartlara uygun bir yapı sağlanmıştır.
+------------------------------
 
-----------------------------
 🔹Token Bilgileri
 
 | Özellik             | Açıklama                    |
@@ -23,8 +23,8 @@ OpenZeppelin’in resmi ERC20 standardı kullanılmıştır.
 constructor fonksiyonu ile tokenlar deploy işlemi sırasında ilk dağıtımı yapan adrese mint edilir.
 
 decimals() fonksiyonu override edilerek varsayılan 18 yerine 2 ondalık basamak kullanılacak şekilde ayarlanmıştır.
-
------------------------------------------------------
+-------------------------------------------------------
+ 
 🧱 Sözleşme Tanımı
 
 contract tugba is ERC20
@@ -32,8 +32,7 @@ contract tugba is ERC20
 tugba: Kontratın adıdır. ERC20 standardını kalıtsal olarak alır.
 
 ERC20: OpenZeppelin’in sağladığı, token transferi, bakiye görüntüleme gibi işlevleri içeren hazır ve güvenli bir yapı sunar.
-
----------------------------------------------------
+-------------------------------------------------------
 
 💡 Projenin Amacı
 
@@ -52,7 +51,7 @@ amaçlarıyla oluşturulmuştur.
 
 Proje aşağıdaki ortamda geliştirilmiş ve test edilmiştir:
 
--> Remix IDE
+* Remix IDE
 
--> Solidity ^0.8.0 sürümü
+* Solidity ^0.8.0 sürümü
 
