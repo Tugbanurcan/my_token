@@ -5,9 +5,9 @@ Bu proje, Solidity dilinde geliştirilmiş basit bir ERC-20 token sözleşmesini
 
 🔹 Token Bilgileri
 ----------------------------------------------------------------------------
-Token Adı: merhaba
+-->Token Adı: merhaba
 
-Sembol: MRB
+--->Sembol: MRB
 
 Ondalık Basamak: 2
 
