@@ -41,11 +41,12 @@ ERC20: OpenZeppelin’in sağladığı, token transferi, bakiye görüntüleme g
 
 * Solidity ile kontrat yazmayı öğrenmek,
 
--> ERC-20 standardının işleyiş mantığını kavramak,
+* ERC-20 standardının işleyiş mantığını kavramak,
 
-Blockchain geliştirme pratiği kazanmak
+* Blockchain geliştirme pratiği kazanmak
 
 amaçlarıyla oluşturulmuştur.
+-------------------------------------------
 
 🧪 Geliştirme Ortamı
 
