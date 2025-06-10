@@ -5,9 +5,13 @@ Bu proje, Solidity dilinde geliştirilmiş basit bir ERC-20 token sözleşmesini
 
 🔹 Token Bilgileri
 Token Adı: merhaba
+
 Sembol: MRB
+
 Ondalık Basamak: 2
+
 Toplam Arz: Deploy edilirken belirlenir
+
 Sözleşme Adı: tugba
 
 ⚙️ Teknik Özellikler
