@@ -4,6 +4,7 @@
 Bu proje, Solidity dilinde geliştirilmiş basit bir ERC-20 token sözleşmesini içermektedir. OpenZeppelin kütüphanesi kullanılarak güvenli ve standartlara uygun bir şekilde oluşturulmuştur.
 
 🔹 Token Bilgileri
+----------------------------------------------------------------------------
 Token Adı: merhaba
 
 Sembol: MRB
@@ -15,6 +16,7 @@ Toplam Arz: Deploy edilirken belirlenir
 Sözleşme Adı: tugba
 
 ⚙️ Teknik Özellikler
+-----------------------------------------------------------
 OpenZeppelin’in ERC20 standardı kullanılmıştır.
 
 constructor fonksiyonu ile tokenlar ilk dağıtımı yapan adrese mint edilir.
